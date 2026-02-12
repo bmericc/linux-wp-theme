@@ -343,6 +343,19 @@ span.news_description {
     max-width: 522px;
 }
 
+#what-is-linux h1 {
+	padding-top: 15px;
+    margin-top: 0;
+	color: #333;
+	text-shadow:  2px 2px 4px #CCC;
+}
+
+#what-is-linux h2 {
+	padding-top: 15px;
+	color: #333;
+	text-shadow:  2px 2px 4px #CCC;
+}
+
 #what-is-linux h4 {
 	padding-top: 15px;
 	color: #333;
